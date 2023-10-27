@@ -18,6 +18,6 @@ main.ipynb, dataPreprocessing.ipynb, debugForUtils.ipynb 為舊版本，現在�
 * public_submission_template.csv: submission_template (can ignore it)
 
 ## Current Goal
--[ ] Stack different models (like the p.15 in the PPT).
--[ ] Try to make or add more data to the model.
+-[ ] Stack different models (like the p.15 in the PPT).  
+-[ ] Try to make or add more data to the model.  
 -[ ] The way using external data is calculate the number locate in the given radius, need to decide the appropriate radius, or decide the better way to use it.
