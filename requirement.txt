@@ -1,0 +1,9 @@
+Python 3.9.13
+
+matplotlib 3.5.2
+numpy 1.23.1
+pandas 2.0.3
+seaborn 0.11.2
+tqdm 4.64.1
+xgboost 2.0.0
+scipy 1.9.1
