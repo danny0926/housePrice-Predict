@@ -9,7 +9,7 @@ main.ipynb, dataPreprocessing.ipynb, debugForUtils.ipynb 為舊版本，現在�
 3. **LightGBMV24.ipynb**: 8.369518
 4. **LightGBMV3.ipynb**: 8.493608
 5. **LightGBMV4.ipynb**: 8.374716
-6. **XGBoostV1.ipynb**: 12.62969
+6. **XGBoostV1.ipynb**: 12.62969  
 -- can compare these model quickly by LOG.pptx--
 
 ## dataset
